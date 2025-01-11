@@ -2,11 +2,6 @@
 - 👀 I’m interested in everything because I love to learn.
 - 🌱 I’m currently learning Front-End Development
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/msmaze"
-
 
 
 <!---
