@@ -1,7 +1,7 @@
 - 🦊 Hi, I’m @foxmaze 🦊
 - 📖 I’m interested in everything because I love to learn.
 - 🖥 I’m currently learning Front-End Development.
-- ![image](https://github.com/user-attachments/assets/b8f0dd65-8f35-4e45-b32e-13ae41109101)
+ [contact](https://www.linkedin.com/in/msmaze)
 
 
 
