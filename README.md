@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @foxmaze
 - 👀 I’m interested in everything because I love to learn.
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Female
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Front-End Development
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/msmaze"
+
+
 
 <!---
 foxmaze/foxmaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
