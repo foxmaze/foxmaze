@@ -1,3 +1,4 @@
+🦊
 - 👋 Hi, I’m @foxmaze
 - 👀 I’m interested in everything because I love to learn.
 - 🌱 I’m currently learning Front-End Development
